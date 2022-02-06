@@ -1,0 +1,73 @@
+body{
+		background: #04C582;
+	}
+		#background{
+			background: #2E3137;
+			min-height: 400px;
+			width: 320px;
+			border-radius: 30px;
+			margin:100px auto;
+			box-shadow: 2px 12px 47px black;
+			border:1px;
+			padding-bottom: 15px;
+		}
+		#user_img{
+			background: gray;
+			min-height: 100px;
+   			 width: 101px;
+   			 border-radius: 52px;
+
+    		position: absolute;
+   			 margin-top: -50px;
+   			 margin-left: 107px;
+   			 background-image: url(../images/admin.png);
+   			 background-size: 100% 100%;
+   			 border:2px solid black;
+		}
+		h1{
+			color:white;
+			text-align: center;
+			margin-top: 50px;
+		}
+		.frm{
+			    
+    width: 275px;
+    min-height: 250px;
+    margin: auto;
+    margin-top: -14px;
+}
+#input-box{
+	    width: 253px;
+    border-radius: 7px;
+    padding: 5px;
+    background: #CCCCCC;
+    color: black;
+  border:1px solid gray;
+   margin-top: 5px !important;
+}.a{
+	margin-bottom: 25px;
+}
+.btn{
+
+}
+.btn #button{
+	background: #04C582;
+	width: 143px;
+    margin-left: 47px;
+    border-radius: 10px;
+    padding: 10px;
+    border: 1px;
+    color: white;
+}
+#button:hover{
+	background-color: #04C543;
+	cursor: pointer;
+}
+.forget_pass h5{
+	text-align: center;
+    color: gray;
+    margin-top: 11px;
+}
+a{
+	text-decoration: none;
+}
